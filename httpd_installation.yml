@@ -1,5 +1,4 @@
 #playbook to install httpd on ansible client
-#making a change
 ---
 - name: This sets up an httpd webserver
   hosts: web-servers
