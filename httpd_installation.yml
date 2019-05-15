@@ -1,5 +1,4 @@
 ---
-######
 - name: This sets up an httpd webserver
   hosts: web-servers
   tasks:
