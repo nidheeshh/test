@@ -1,4 +1,4 @@
 #!/bin/bash
 ###########
 clear
-echo "Good morning, world."
+sudo echo "Good morning, world."
